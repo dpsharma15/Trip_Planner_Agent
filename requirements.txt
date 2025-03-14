@@ -11,3 +11,4 @@ duckduckgo-search
 chromadb
 setuptools
 wheel
+pysqlite3-binary
