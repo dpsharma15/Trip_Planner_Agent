@@ -1,11 +1,11 @@
 streamlit
 crewai[tools]
-pysqlite3-binary
+pysqlite3-binary  # Ensure you're using a compatible SQLite version for Python
 crewai
 langchain
 langchain_ollama
 langchain_community
 crewai_tools
 duckduckgo-search
-chromadb
-pydantic
+chromadb            # Ensure you're using the latest version of chromadb
+pydantic            # Required by crewai
