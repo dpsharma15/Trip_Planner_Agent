@@ -6,6 +6,8 @@ langchain_groq
 python-dotenv
 langchain
 langchain_ollama
-streamlit 
+streamlit
 duckduckgo-search
-
+chromadb
+setuptools
+wheel
