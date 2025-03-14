@@ -7,3 +7,4 @@ langchain_ollama
 langchain_community
 crewai_tools
 duckduckgo-search
+chromadb==0.3.0
