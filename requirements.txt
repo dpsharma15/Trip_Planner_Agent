@@ -1,0 +1,11 @@
+crewai
+crewai[tools]
+langchain_openai
+langchain_community
+langchain_groq
+python-dotenv
+langchain
+langchain_ollama
+streamlit 
+duckduckgo-search
+
